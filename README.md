@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @omodo
-- 👀 I’m interested in python programming for computer networking and cybersecurity
-- 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @omodo(THM)
+- 🌱 I’m currently learning cybersecurity, computer networking and programming 
+- 📫 How to reach me: email to **socials.hypnotize707@passinbox.com**
+
 
 <!---
 notomodo/notomodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
