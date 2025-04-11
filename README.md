@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @omodo(THM)
 - 🌱 I’m currently learning cybersecurity, computer networking and programming 
 - 📫 How to reach me: email to **socials.hypnotize707@passinbox.com**
+- check out my Youtube {https://www.youtube.com/@omodo-a}
 
 
 <!---
